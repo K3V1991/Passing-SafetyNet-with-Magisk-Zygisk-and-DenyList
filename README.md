@@ -50,5 +50,3 @@ You should be passing both Basic Integrity and CtsProfile and Google Play Certif
 <img src="https://i.ibb.co/Kq2m4GL/Termux-props.jpg" width="250"></a>
 <img src="https://i.ibb.co/S6M7sq2/Magisk-Hide-Props-Config-Menu.jpg" width="250"></a>
 <img src="https://i.ibb.co/Q91dcFh/Edit-Magisk-Hide-props.jpg" width="250"></a>
-<img src="https://i.ibb.co/wRMKBM1/ro-boot-flashlocked.jpg" width="250"></a>
-<img src="https://i.ibb.co/Yb4hYHR/ro-boot-verifiedbootstate.jpg" width="250"></a>
