@@ -15,7 +15,7 @@ How do you pass SafetyNet without it?</h4>
 * Magisk - [Github](https://github.com/topjohnwu/Magisk "Magisk")
 * MagiskHide Props Module - [Magisk Modules Repo](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf "MagiskHidePropsConf")
 * Terminal Emulator - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux "Termux") or Terminal Emulator for Android - [Google Play Store](https://play.google.com/store/apps/details?id=jackpal.androidterm "Terminal Emulator") 
-* SafetyNet Checker - [Google Play Store](https://play.google.com/store/apps/details?id=rikka.safetynetchecker "YASNAC") or SafetyNet Test - [Google Play Store](https://play.google.com/store/apps/details?id=org.freeandroidtools.safetynettest "SafetyNet Test")
+* YASNAC - Yet Another SafetyNet Attestation Checker - [Google Play Store](https://play.google.com/store/apps/details?id=rikka.safetynetchecker "YASNAC") or SafetyNet Test - [Google Play Store](https://play.google.com/store/apps/details?id=org.freeandroidtools.safetynettest "SafetyNet Test")
 <br />
 
 ## How-To:
@@ -46,7 +46,8 @@ You should be passing both Basic Integrity and CtsProfile and Google Play Certif
 <br />
 
 ## Screenshots
-<img src="https://i.ibb.co/7bKvCLV/Temux-su.jpg" width="250"></a>
-<img src="https://i.ibb.co/Kq2m4GL/Termux-props.jpg" width="250"></a>
-<img src="https://i.ibb.co/S6M7sq2/Magisk-Hide-Props-Config-Menu.jpg" width="250"></a>
-<img src="https://i.ibb.co/Q91dcFh/Edit-Magisk-Hide-props.jpg" width="250"></a>
+<img src="https://i.ibb.co/7bKvCLV/Temux-su.jpg" width="250"></a> &emsp;
+<img src="https://i.ibb.co/Kq2m4GL/Termux-props.jpg" width="250"></a> &emsp;
+<img src="https://i.ibb.co/S6M7sq2/Magisk-Hide-Props-Config-Menu.jpg" width="250"></a> &emsp;
+<img src="https://i.ibb.co/Q91dcFh/Edit-Magisk-Hide-props.jpg" width="250"></a> &emsp;
+<img src="https://i.ibb.co/GQMSdmB/Safety-Net-Checker.jpg" width="250"></a>
