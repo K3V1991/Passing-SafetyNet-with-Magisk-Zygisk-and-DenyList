@@ -14,7 +14,7 @@ How do you pass SafetyNet without it?</h4>
 ## Prequisites:
 * Magisk - [Github](https://github.com/topjohnwu/Magisk "Magisk")
 * MagiskHide Props Module - [Magisk Modules Repo](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf "MagiskHidePropsConf")
-* Terminal Emulator - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux "Termux") or Terminal Emulator for Android - [Google Play Store](https://play.google.com/store/apps/details?id=jackpal.androidterm "Terminal Emulator") 
+* Termux - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux "Termux") or Terminal Emulator for Android - [Google Play Store](https://play.google.com/store/apps/details?id=jackpal.androidterm "Terminal Emulator") 
 * YASNAC - Yet Another SafetyNet Attestation Checker - [Google Play Store](https://play.google.com/store/apps/details?id=rikka.safetynetchecker "YASNAC") or SafetyNet Test - [Google Play Store](https://play.google.com/store/apps/details?id=org.freeandroidtools.safetynettest "SafetyNet Test")
 <br />
 
