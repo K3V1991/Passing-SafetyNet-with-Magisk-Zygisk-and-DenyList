@@ -36,7 +36,7 @@ props
 ```
 9. Enter the 4th Submenu and configure so that the:
 ```
-ro.boot.verifiedbootstate & ro.boot.flashlocked
+ro.boot.verifiedbootstate & ro.boot.flash:locked
 ```
 Says active like in the Screenshots.
 
