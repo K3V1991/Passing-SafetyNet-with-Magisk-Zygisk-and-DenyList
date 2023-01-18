@@ -13,19 +13,19 @@ How do you pass SafetyNet without it?</h4>
 
 ## Prequisites:
 * Magisk - [Github](https://github.com/topjohnwu/Magisk "Magisk")
-* MagiskHide Props Module - [Magisk Modules Repo](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf "MagiskHidePropsConf")
+* MagiskHide Props Module - [Magisk Modules Repo](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf "MagiskHidePropsConf") **(Discuntinued)**, use Universal SafetyNet Fix - [GitHub](https://github.com/kdrag0n/safetynet-fix "Universal SafetyNet Fix")
 * Termux - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux "Termux") or Terminal Emulator for Android - [Google Play Store](https://play.google.com/store/apps/details?id=jackpal.androidterm "Terminal Emulator") 
 * YASNAC - Yet Another SafetyNet Attestation Checker - [Google Play Store](https://play.google.com/store/apps/details?id=rikka.safetynetchecker "YASNAC") or SafetyNet Test - [Google Play Store](https://play.google.com/store/apps/details?id=org.freeandroidtools.safetynettest "SafetyNet Test")
 <br />
 
-## How-To:
+## MagiskHide Props Module How-To:
 1. Update to the latest Magisk.
 2. Open Magisk > Settings > Enable Zygisk & Enable Enforce DenyList.
 3. Now tap on Configure DenyList (Tap on the 3 Button Menu and enable "Show System Apps")
 4. Now turn off your Internet Connections and enable Airplane Mode. Double check and ensure that Wifi is turned off after enabling Airplane Mode.
 5. Configure DenyList for Google Play Store and Google Play Services and all the other Apps you need Root hidden from.
 6. Go into the Phone's Settings > Apps > Clear Data of all the Apps you configured in the DenyList.
-7. Install the MagiskHide Props Module and reboot.
+7. Install the MagiskHide Props Module **(Discuntinued)** and reboot.
 8. Open Termux or Terminal Emulator and grant Root Permissions by typing in:
 ```
 su
@@ -42,6 +42,11 @@ Says active like in the Screenshots.
 
 10. Now Reboot.
 11. After Boot, connect to the Internet, let the Phone sit idle for 5-10 Minutes and check SafetyNet Status. 
+You should be passing both Basic Integrity and CtsProfile and Google Play Certification.
+<br />
+
+## Universal SafetyNet Fix Module How-To:
+1. Install Universal SafetyNet Fix Module and reboot.
 You should be passing both Basic Integrity and CtsProfile and Google Play Certification.
 <br />
 
