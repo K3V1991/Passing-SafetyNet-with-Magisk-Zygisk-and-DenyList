@@ -51,8 +51,8 @@ You should be passing both Basic Integrity and CtsProfile and Google Play Certif
 <br />
 
 ## Screenshots
-<img src="https://i.ibb.co/7bKvCLV/Temux-su.jpg" width="250"></a> &emsp;
-<img src="https://i.ibb.co/Kq2m4GL/Termux-props.jpg" width="250"></a> &emsp;
-<img src="https://i.ibb.co/S6M7sq2/Magisk-Hide-Props-Config-Menu.jpg" width="250"></a> &emsp;
-<img src="https://i.ibb.co/Q91dcFh/Edit-Magisk-Hide-props.jpg" width="250"></a> &emsp;
-<img src="https://i.ibb.co/GQMSdmB/Safety-Net-Checker.jpg" width="250"></a>
+<img src="https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList/blob/main/Temux-su.jpg" width="250"></a> &emsp;
+<img src="https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList/blob/main/Termux-props.jpg" width="250"></a> &emsp;
+<img src="https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList/blob/main/MagiskHide-Props-Config-Menu.jpg" width="250"></a> &emsp;
+<img src="https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList/blob/main/Edit-MagiskHide-props.jpg" width="250"></a> &emsp;
+<img src="https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList/blob/main/SafetyNet-Checker.jpg" width="250"></a>
