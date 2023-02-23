@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/Jzbngh8/Google-Play-Services.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList/blob/main/Google-Play-Services.png" width="200"></a>
 <h1 align="center"><b>Passing SafetyNet with Magisk's Zygisk and DenyList</b></h1>
 <h4 align="center">Magisk 24 will no longer have Magisk Hide natively bundled with Magisk. 
 Unless of course you use a Fork of Magisk from another Developer.
