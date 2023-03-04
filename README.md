@@ -22,11 +22,11 @@ How do you pass SafetyNet without it?</h4>
 
 ## MagiskHide Props Module How-To:
 1. Update to the latest Magisk.
-2. Open Magisk > Settings > Enable Zygisk & Enable Enforce DenyList.
+2. Open ```Magisk``` > ```Settings``` > enable ```Zygisk``` & ```Enforce DenyList```.
 3. Now tap on Configure DenyList (Tap on the 3 Button Menu and enable "Show System Apps")
 4. Now turn off your Internet Connections and enable Airplane Mode. Double check and ensure that Wifi is turned off after enabling Airplane Mode.
 5. Configure DenyList for Google Play Store and Google Play Services and all the other Apps you need Root hidden from.
-6. Go into the Phone's Settings > Apps > Clear Data of all the Apps you configured in the DenyList.
+6. Go into the Phone's ```Settings``` > ```Apps``` > ```Clear Data``` of all the Apps you configured in the DenyList.
 7. Install the MagiskHide Props Module **(Discuntinued)** and reboot.
 8. Open Termux or Terminal Emulator and grant Root Permissions by typing in:
 ```
